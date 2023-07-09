@@ -1,3 +1,3 @@
 # connect-jenkins-to-GitHub
 
-commit to check webhooks
+commit to checking webhooks
